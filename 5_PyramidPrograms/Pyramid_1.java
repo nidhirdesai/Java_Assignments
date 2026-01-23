@@ -1,3 +1,10 @@
+/*OUTPUT:
+1 
+1 1 
+1 1 1 
+1 1 1 1 
+1 1 1 1 1 
+*/
 package practiceprograms1;
 
 public class pyramid1 {
