@@ -15,3 +15,6 @@ public class EH3 {
 		}
 	}
 }
+/*Expected Output:
+Cannot convert String to Number
+*/
