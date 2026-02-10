@@ -12,7 +12,8 @@ public class EH4 {
 		{
 			 System.out.println("String is null. Cannot find length");
 		}
-
 	}
-
 }
+/*Expected Output:
+String is null. Cannot find length
+*/
