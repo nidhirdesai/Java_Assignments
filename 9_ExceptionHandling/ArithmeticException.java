@@ -20,3 +20,7 @@ public class EH1 {
 	}
 
 }
+/*Expected Output:
+Error: Cannot divide by zero
+Program continues...
+*/
