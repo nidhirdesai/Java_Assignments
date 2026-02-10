@@ -24,10 +24,13 @@ public class EH2 {
 		catch(ArrayIndexOutOfBoundsException e)
 		{
 			 System.out.println("Invalid Index! Enter between 0 and 4");
-		}
-		
+		}	
 		sc.close();
-
 	}
-
 }
+/*Expected Output:
+Enter position (0-4): 5
+Enter value: 20
+Invalid Index! Enter between 0 and 4
+
+*/
